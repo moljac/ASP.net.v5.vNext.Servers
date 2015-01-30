@@ -1,0 +1,6 @@
+[submodule "KestrelHttpServer"]
+	path = KestrelHttpServer
+	url = https://github.com/aspnet/KestrelHttpServer.git
+[submodule "FireflyServer"]
+	path = FireflyServer
+	url = https://github.com/FireflyServer/firefly.git
